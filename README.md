@@ -68,7 +68,7 @@ Put http://127.0.0.1:8000/roles/3
 
 Delete http://127.0.0.1:8000/roles/2
 
-# CITAS
+# Citas
 Get http://127.0.0.1:8000/cita
 
 Post http://127.0.0.1:8000/cita
@@ -77,7 +77,7 @@ Put http://127.0.0.1:8000/cita/3
 
 Delete http://127.0.0.1:8000/cita/2
 
-# AUTH
+# Auth
 Post http://127.0.0.1:8000/auth/login
 
 Post http://127.0.0.1:8000/auth/register

@@ -1,5 +1,5 @@
 # Proyecto final
-#Valeria Herrera Parra - Katherin Castaño Pineda
+Valeria Herrera Parra - Katherin Castaño Pineda
 
 
 

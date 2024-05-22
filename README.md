@@ -35,11 +35,11 @@ Put http://127.0.0.1:8000/veterinario/3
 Delete http://127.0.0.1:8000/veterinario/2
 
 # Usuario
-#Get http://127.0.0.1:8000/usuario
+Get http://127.0.0.1:8000/usuario
 
-#Put http://127.0.0.1:8000/usuario/3
+Put http://127.0.0.1:8000/usuario/3
 
-#Delete http://127.0.0.1:8000/usuario/2
+Delete http://127.0.0.1:8000/usuario/2
 
 # MASCOTA
 Get http://127.0.0.1:8000/mascota

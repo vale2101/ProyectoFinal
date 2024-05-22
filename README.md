@@ -41,7 +41,7 @@ Put http://127.0.0.1:8000/usuario/3
 
 Delete http://127.0.0.1:8000/usuario/2
 
-# MASCOTA
+# Mascota
 Get http://127.0.0.1:8000/mascota
 
 Post http://127.0.0.1:8000/mascota

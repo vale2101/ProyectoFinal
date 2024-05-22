@@ -2,7 +2,7 @@
 Valeria Herrera Parra - Katherin Castaño Pineda
 valeria.herrerap@autonoma.edu.co - katherine.castanop@autonoma.edu.co
 
-# Descripcion
+# Descripción
 El sistema de respaldo para servicios veterinarios facilita la gestión de citas y la adquisición de productos de forma eficiente.
 
 
